@@ -1,4 +1,4 @@
-<h3 style="text-align: center;">CD4+ and CD8+ T cells are required to prevent SARS-CoV-2 persistence in the nasal compartment</h3>
+<h1 align="center">CD4+ and CD8+ T cells are required to prevent SARS-CoV-2 persistence in the nasal compartment</h1>
 
 Meenakshi Kar (1,2,3), Katherine E.E. Johnson (4), Abigail Vanderheiden (5,6), Elizabeth J. Elrod (2,3,7), Katharine Floyd (1,2,3), Elizabeth Geerling (8), E. Taylor Stone (8), Eduardo Salinas (2,3,7), Stephanie Banakis (4) Wei Wang (4), Shruti Sathish (4), Swathi Shrihari (1,2,3), Meredith E. Davis-Gardner (1,2,3), Jacob Kohlmeier (9), Amelia Pinto (8), Robyn Klein (5,6,10,11), Arash Grakoui (2,3,12), Elodie Ghedin (4), Mehul S. Suthar (1,2,3,9)
 
