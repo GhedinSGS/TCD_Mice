@@ -16,3 +16,5 @@ Meenakshi Kar (1,2,3), Katherine E.E. Johnson (4), Abigail Vanderheiden (5,6), E
 12. Department of Medicine, Emory University School of Medicine, Emory University, Atlanta, GA, USA.
 
 [bioRxiv link](https://www.biorxiv.org/content/10.1101/2024.01.23.576505v1)
+
+Zenodo DOI: 10.5281/zenodo.12537008
